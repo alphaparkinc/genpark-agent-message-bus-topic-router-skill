@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-agent-message-bus-topic-router-skill"
+version = "1.0.0"
+description = "Asynchronous pub/sub message bus with hierarchical wildcard topic matching and priority routing"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []

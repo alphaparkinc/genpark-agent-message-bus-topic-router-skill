@@ -1,0 +1,6 @@
+name: genpark-agent-message-bus-topic-router-skill
+version: 1.0.0
+description: Asynchronous pub/sub message bus with hierarchical wildcard topic matching and priority routing
+command: python
+args:
+  - mcp_server.py

@@ -1,0 +1,20 @@
+{
+  "name": "genpark-agent-message-bus-topic-router-skill",
+  "version": "1.0.0",
+  "description": "Asynchronous pub/sub message bus with hierarchical wildcard topic matching and priority routing",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "message-bus",
+    "topic-router",
+    "pub-sub",
+    "multi-agent",
+    "event-driven",
+    "python-standard-library",
+    "agent-skills",
+    "swarm-coordination",
+    "inter-agent-comm",
+    "distributed-systems"
+  ]
+}
